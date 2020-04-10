@@ -1,4 +1,7 @@
 # README
+==============================================================================================
+
+
 ## Visual Studio Code HTML Boilerplate
  
 This extension provides the standard extended-html5-boilerplate code used in most of the web applications.
@@ -6,7 +9,7 @@ This extension provides the standard extended-html5-boilerplate code used in mos
 # Usage
 Type `extended-html5-boilerplate` in an HTML file and select the snippet from the auto suggestion dropdown to get this boilerplate.
 
-![preview image](images/preview.mp4 "Snippets Preview")
+![preview image](https://im7.ezgif.com/tmp/ezgif-7-161da5ab97e8.gif "Snippets Preview")
 
 # Installation
 
