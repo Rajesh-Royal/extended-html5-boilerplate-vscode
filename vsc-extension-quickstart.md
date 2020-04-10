@@ -6,7 +6,7 @@ This extension provides the standard extended HTML boilerplate code used in most
 # Usage
 Type 'extended-html5-boilerplate' in an HTML file and select the snippet from the auto suggestion dropdown to get the HTML boilerplate.
 
-![alt text](images/preview.mp4 "Snippets Preview")
+![alt text](https://rajeshroyal.com/wp-content/uploads/2020/04/preview.gif "Snippets Preview")
 
 # Installation
 
