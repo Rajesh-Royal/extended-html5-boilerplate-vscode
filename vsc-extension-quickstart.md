@@ -1,12 +1,12 @@
 # README
 ## Visual Studio Code HTML Boilerplate
  
-This extension provides the standard HTML boilerplate code used in all web applications.
+This extension provides the standard extended HTML boilerplate code used in most of the web applications. It includes opengraphs meta, site meta, search engine verification meta, IE support meta, fevicon meta.
 
 # Usage
-Type 'html5-boilerplate' in an HTML file and select the snippet from the auto suggestion dropdown to get the HTML boilerplate.
+Type 'extended-html5-boilerplate' in an HTML file and select the snippet from the auto suggestion dropdown to get the HTML boilerplate.
 
-![alt text](http://s19.postimg.org/3skf6mf5t/preview.gif "Snippets Preview")
+![alt text](images/preview.mp4 "Snippets Preview")
 
 # Installation
 
@@ -19,7 +19,7 @@ Type 'html5-boilerplate' in an HTML file and select the snippet from the auto su
 7. Reload Visual Studio Code
  
 # Contact
-If you have any issues report them at [Issues](https://github.com/sidthesloth92/vsc_html5_boilerplate/issues)
+If you have any issues report them at [Issues](https://github.com/Rajesh-Royal/extended-html5-boilerplate-vscode/issues)
 
 # Source
-[Github](https://github.com/sidthesloth92/vsc_html5_boilerplate)
+[Github](https://github.com/Rajesh-Royal/extended-html5-boilerplate-vscode)

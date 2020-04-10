@@ -1,9 +1,9 @@
 {
     "name": "extended-html5-boilerplate",
     "displayName": "Extended Html5 Boilerplate",
-    "publisher": "Rajesh Royal",
+    "publisher": "rajeshroyal",
     "description": "An extended Html5 boilerplate snippet generator.",
-    "version": "0.1",
+    "version": "0.0.1",
     "license": "MIT",
     "icon": "images/icon.png",
     "galleryBanner": {
@@ -11,16 +11,16 @@
         "theme": "dark"
     },
     "engines": {
-        "vscode": "^0.10.x"
+        "vscode": "^1.44.0"
     },
-    "homepage": "https://github.com/sidthesloth92/vsc_html5_boilerplate/blob/master/README.md",
+    "homepage": "https://github.com/Rajesh-Royal/extended-html5-boilerplate-vscode/blob/master/README.md",
     "bugs": {
-        "url": "https://github.com/sidthesloth92/vsc_html5_boilerplate/issues",
-        "email": "sidthesloth92@hotmail.com"
+        "url": "https://github.com/Rajesh-Royal/extended-html5-boilerplate-vscode/issues",
+        "email": "rajeshroyal896@gmail.com"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/sidthesloth92/vsc_html5_boilerplate.git"
+        "url": "https://github.com/Rajesh-Royal/extended-html5-boilerplate-vscode.git"
     },
     "categories": [
         "Snippets"
@@ -48,7 +48,21 @@
             {
                 "language": "ruby",
                 "path": "./snippets/html.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/html.json"
+            },
+            {
+                "language": "javascript react",
+                "path": "./snippets/html.json"
             }
         ]
+    },
+    "extensionPack": [
+        "publisher.extensionName"
+    ],
+    "dependencies": {
+        "vsce": "^1.75.0"
     }
 }
