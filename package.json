@@ -1,0 +1,54 @@
+{
+    "name": "extended-html5-boilerplate",
+    "displayName": "Extended Html5 Boilerplate",
+    "publisher": "Rajesh Royal",
+    "description": "An extended Html5 boilerplate snippet generator.",
+    "version": "0.1",
+    "license": "MIT",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#505050",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^0.10.x"
+    },
+    "homepage": "https://github.com/sidthesloth92/vsc_html5_boilerplate/blob/master/README.md",
+    "bugs": {
+        "url": "https://github.com/sidthesloth92/vsc_html5_boilerplate/issues",
+        "email": "sidthesloth92@hotmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sidthesloth92/vsc_html5_boilerplate.git"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "keywords": [
+        "html",
+        "html5",
+        "snippet",
+        "extended",
+        "meta tags boilerplate",
+        "seo boilerplate",
+        "snippets",
+        "boilerplate"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/html.json"
+            },
+            {
+                "language": "php",
+                "path": "./snippets/html.json"
+            },
+            {
+                "language": "ruby",
+                "path": "./snippets/html.json"
+            }
+        ]
+    }
+}

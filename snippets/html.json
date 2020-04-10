@@ -1,0 +1,87 @@
+{
+	"extended-html5-boilerplate": {
+		"prefix": "html5-boilerplate-extended",
+		"body": [
+			"<!DOCTYPE html>",
+			"<!--[if lt IE 7]>      <html class=\"no-js lt-ie9 lt-ie8 lt-ie7\"> <![endif]-->",
+			"<!--[if IE 7]>         <html class=\"no-js lt-ie9 lt-ie8\"> <![endif]-->",
+			"<!--[if IE 8]>         <html class=\"no-js lt-ie9\"> <![endif]-->",
+			"<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->",
+			"\t<head>",
+			"\t\t<meta charset=\"UTF-8\" />",
+			"\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />",
+
+			"\t\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">",
+			"\t\t<link rel=\"pingback\" href=\"https: //domainname.com/xmlrpc.php\" />",
+
+			"\t\t<title>$1</title>",
+
+			"\t\t<!-- style and script resources -->",
+			"\t\t<link rel=\"stylesheet\" href=\"$2\" media=\"all\">",
+			"\t\t<script src=\"$3\"></script>",
+
+    		"\t\t<!--meta properties -->",
+			"\t\t<meta name=\"description\" content=\"$4 Your site description.\" />",
+			
+			"\t\t<!--detailed robots meta https://developers.google.com/search/reference/robots_meta_tag -->",
+			"\t\t<meta name=\"robots\" content=\"index, follow, max-snippet: -1, max-image-preview:large, max-video-preview: -1\" />",
+			"\t\t<link rel=\"canonical\" href=\"$5\" />", 
+
+			"\t\t<!--open graph meta tags for social sites and search engines-->",
+			"\t\t<meta property=\"og:locale\" content=\"en_US\" />",
+    		"\t\t<meta property=\"og:type\" content=\"website\" />",
+    		"\t\t<meta property=\"og:title\" content=\" $6 Opengraph content 25 char are best\" />",
+			"\t\t<meta property=\"og:description\" content=\" $7 #description.\" />",
+			"\t\t<meta property=\"og:url\" content=\"$8\" />",
+    		"\t\t<meta property=\"og:site_name\" content=\"$9\" />",
+			"\t\t<meta property=\"og:image\" content=\"images//hom-banner-compressed.jpg\" />",
+			"\t\t<meta property=\"og:image:secure_url\" content=\"images//hom-banner-compressed.jpg\" />",
+			"\t\t<meta property=\"og:image:width\" content=\"1200\" />",
+			"\t\t<meta property=\"og:image:height\" content=\"660\" />",
+
+			"\t\t<!--twitter description-->",
+			"\t\t<meta name=\"twitter:card\" content=\"summary_large_image\" />",
+			"\t\t<meta name=\"twitter:description\" content=\"$10.\" />",
+			"\t\t<meta name=\"twitter:title\" content=\"$11\" />",
+			"\t\t<meta name=\"twitter:site\" content=\"@$12\" />",
+			"\t\t<meta name=\"twitter:image\" content=\"images/hom-banner-compressed.jpg\" />",
+			"\t\t<meta name=\"twitter:creator\" content=\"@$13\" />",
+
+			"\t\t<!--opengraph tags for location or address for information panel in google-->",
+			"\t\t<meta name=\"og:latitude\" content=\"$14\" />",
+			"\t\t<meta name=\"og:longitude\" content=\"$15\" />",
+			"\t\t<meta name=\"og:street-address\" content=\"$16\" />",
+			"\t\t<meta name=\"og:locality\" content=\"$17\" />",
+			"\t\t<meta name=\"og:region\" content=\"$18\" />",
+			"\t\t<meta name=\"og:postal-code\" content=\"$19\" />",
+			"\t\t<meta name=\"og:country-name\" content=\"$20\" />",
+
+			"\t\t<!--search engine verification-->",
+			"\t\t<meta name=\"google-site-verification\" content=\"$21\" />",
+			"\t\t<meta name=\"yandex-verification\" content=\"$22\" />",
+
+			"\t\t<!--powered by meta-->",
+			"\t\t<meta name=\"generator\" content=\"$23\" />",
+
+			"\t\t<!-- Site fevicon icons -->",
+			"\t\t<link rel=\"icon\" href=\"images/icon/cropped-cropped-favicon-1-1-32x32.png\" sizes=\"32x32\" />",
+			"\t\t<link rel=\"icon\" href=\"images/icon/cropped-cropped-favicon-1-1-192x192.png\" sizes=\"192x192\" />",
+			"\t\t<link rel=\"apple-touch-icon-precomposed\" href=\"images/icon/cropped-cropped-favicon-1-1-180x180.png\" />",
+			"\t\t<meta name=\"msapplication-TileImage\" content=\"images/icon/cropped-cropped-favicon-1-1-270x270.png\" />",
+
+			"\t\t<!--complete list of meta tags at - https://gist.github.com/lancejpollard/1978404 -->",
+
+			"\t</head>",
+			"\t<body>",
+			"\t\t<!--[if lt IE 7]>",
+			"\t\t\t<p class=\"browsehappy\">You are using an <strong>outdated</strong> browser. Please <a href=\"#\">upgrade your browser</a> to improve your experience.</p>",
+			"\t\t<![endif]-->",
+			"\t\t$24",
+			"\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"/$25\" media=\"print\" />",
+    		"\t\t<script src=\"$26\" async defer></script>",
+			"\t</body>",
+			"</html>"
+		],
+		"description": "An Extended HTML5 boiler plate code."
+	}
+}
