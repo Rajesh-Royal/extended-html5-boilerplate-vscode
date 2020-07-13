@@ -35,3 +35,6 @@ If you have any issues report them at [Issues](https://github.com/Rajesh-Royal/e
 
 # Source
 [Github](https://github.com/Rajesh-Royal/extended-html5-boilerplate-vscode)
+
+# Developer
+[Rajesh Royal](https://rajeshroyal.com)
